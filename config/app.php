@@ -147,6 +147,8 @@ return [
 
         Acacha\AdminLTETemplateLaravel\app\Providers\AdminLTETemplateServiceProvider::class,
 
+        Acacha\LaravelBootstrap\Providers\BootstrapServiceProvider::class,
+
 
     ],
 
